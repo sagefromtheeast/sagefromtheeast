@@ -66,7 +66,25 @@
 ---
 
 ## 📊 Stats & Highlights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagefromtheeast&theme=radical&show_icons=true)
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/sagefromtheeast?label=Follow&style=social)](https://github.com/sagefromtheeast)
+[![GitHub User's stars](https://img.shields.io/github/stars/sagefromtheeast?style=social)](https://github.com/sagefromtheeast?tab=stars)
+
+**My GitHub Activity**
+
+![sagefromtheeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagefromtheeast&show_icons=true&theme=radical&include_all_commits=true)
+
+**Top Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagefromtheeast&layout=compact&theme=radical)
+
+**GitHub Contributions**
+
+![sagefromtheeast's github activity graph](https://activity-graph.herokuapp.com/graph?username=sagefromtheeast&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ---
 
@@ -76,3 +94,4 @@
 ---
 
 **📧 Let's Connect!** Feel free to reach out if you'd like to collaborate on projects or discuss web development! 🚀
+
