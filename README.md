@@ -1,97 +1,104 @@
-# 💫 About Me
-🔭 I'm currently working on building modern web applications and software development  
-🤝 I'm looking for collaboration opportunities in web development and software projects  
-🌱 I'm continuously learning Web Development and expanding my tech stack  
+### 👋 Hey, I'm sagefromtheeast.
+
+🎓 I have a Bachelor of Technology in Computer Science, and 🚧 I'm still becoming a developer.
+
+🤖 Most of what's on this profile was built *with* AI: I plan the product, make the calls, and work through the code alongside tools like **Claude Code** and **Antigravity**. 📈 Every project teaches me a little more about writing it myself, and that's the direction I'm heading.
+
+<sub>🇿🇼 Based in Zimbabwe · ⚽ football and data · 🔒 privacy-first tools · 🧠 learning in public</sub>
 
 ---
 
-## 💻 Tech Stack
+#### 💫 About me
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=shadcnui)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161617.svg?style=for-the-badge&logo=radixui&logoColor=white)
-
-### Build Tools & Dev Tools
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3A8F?style=for-the-badge&logo=eslint&logoColor=white)
-
-### Libraries & Frameworks
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-black?style=for-the-badge)
-![React Spring](https://img.shields.io/badge/React%20Spring-purple?style=for-the-badge)
-![Recharts](https://img.shields.io/badge/recharts-8884D8?style=for-the-badge)
-![Motion](https://img.shields.io/badge/Motion-008000?style=for-the-badge)
-
-### Data & Database
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Dexie.js](https://img.shields.io/badge/dexie-blue?style=for-the-badge)
-![LocalStorage](https://img.shields.io/badge/localstorage-gray?style=for-the-badge)
-
-### Backend & APIs
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Additional Tools
-![jsPDF](https://img.shields.io/badge/jsPDF-red?style=for-the-badge)
-![Sonner](https://img.shields.io/badge/sonner-black?style=for-the-badge)
-![Lucide React](https://img.shields.io/badge/Lucide%20React-blue?style=for-the-badge)
-![Embla Carousel](https://img.shields.io/badge/embla%20carousel-teal?style=for-the-badge)
-![Google Generative AI](https://img.shields.io/badge/Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- 🎓 **Background:** BTech in Computer Science
+- 🤖 **How I build:** AI-assisted with Claude Code and Antigravity, learning the fundamentals as I go
+- ⚽ **Into:** coding, data science, football and football analytics
+- 🔒 **Care about:** tools that help everyday people keep their data private
 
 ---
 
-## 📦 Featured Projects
+#### 🛠️ What I build with
 
-### 🎯 Key Projects
-- **[Glen-Norah-Youth-Management-System](https://github.com/sagefromtheeast/Glen-Norah-Youth-Management-System)** - Comprehensive youth management dashboard with React, Vite, Tailwind, Firebase, and PDF export
-- **[Penny-Wise](https://github.com/sagefromtheeast/Penny-Wise)** - Budgeting application 
-- **[Soul-Feed-Store](https://github.com/sagefromtheeast/Soul-Feed-Store)** - E-commerce platform for Christian fashion with React, Vite, and Express backend
-- **[Shona-Song-Book](https://github.com/sagefromtheeast/Shona-Song-Book)** - My first full-stack application
-- **[Songbook-Privacy-Policy](https://github.com/sagefromtheeast/Songbook-Privacy-Policy)** - Privacy policy documentation
-- **[buzznectar-connect](https://github.com/sagefromtheeast/buzznectar-connect)** - Modern web app with Shadcn/ui, React Query, and Zod validation
-- **[Toby-Tactics](https://github.com/sagefromtheeast/Toby-Tactics)** - Tactics board with React Spring, Dexie, and Router
-- **[Web-Dev-For-Beginners](https://github.com/sagefromtheeast/Web-Dev-For-Beginners)** - Learning curriculum for JavaScript, HTML, and CSS fundamentals
+<p>
+  <img alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Node.js, Express, Python, OpenCV, Java, Firebase, SQLite, Cloudflare, GitHub Actions, Git, VS Code" src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,python,opencv,java,firebase,sqlite,cloudflare,githubactions,git,vscode&perline=9">
+</p>
+
+<sub>Plus shadcn/ui, React Query, Zustand, Dexie, Recharts and jsPDF when a project calls for them.</sub>
 
 ---
 
-## 📊 Stats & Highlights
+#### 📦 Featured projects
+
+**🎓 Key university project**
+- **[SAG3-PARK](https://github.com/sagefromtheeast/SAG3-PARK)**: a parking management system. It reads number plates from photos with YOLO and EasyOCR, identifies the car with Gemini, allocates a spot, and bills by time on exit. `Python` `Streamlit` `OpenCV` `SQLite`
+
+**🖍️ Building now**
+- **[Nestmark](https://github.com/sagefromtheeast/sage-highlights-unleashed)**: a browser extension for highlighting the web and keeping it. Highlights come back when you revisit a page, export to Markdown, CSV or JSON, and never leave your device. No account, no analytics. `Manifest V3` `JavaScript` `Playwright`
+
+**⚽ Football**
+- **[Red Buzz](https://github.com/sagefromtheeast/football-tg-bot)**: a Telegram bot that filters Man Utd news from trusted accounts on X and posts it to a channel, running for $0 on Cloudflare Workers. `TypeScript` `Cloudflare D1`
+- **[Toby-Tactics](https://github.com/sagefromtheeast/Toby-Tactics)**: a football tactics board. `React Spring` `Dexie` `React Router`
+
+**🤖 Bots and experiments**
+- **[Podcast Telegram Notifier](https://github.com/sagefromtheeast/podcast-telegram-notifier)**: watches podcast RSS feeds and sends each new episode to Telegram with artwork, show notes and listen buttons. Runs free on GitHub Actions. `Node.js` `GitHub Actions`
+- **[Watermark-Remover](https://github.com/sagefromtheeast/Watermark-Remover)**: an experiment in removing Gemini's SynthID watermark from images.
+
+**🧰 Everyday tools**
+- **[Penny-Wise](https://github.com/sagefromtheeast/Penny-Wise)**: a budgeting app for keeping track of where the money goes.
+- **[Glen-Norah-Youth-Management-System](https://github.com/sagefromtheeast/Glen-Norah-Youth-Management-System)**: a dashboard for running a youth group, with PDF export. `React` `Firebase` `Tailwind` `jsPDF`
+
+**🎵 Community and faith**
+- **[Shona-Song-Book](https://github.com/sagefromtheeast/Shona-Song-Book)**: a Shona songbook, and my first full-stack app. It has its own [privacy policy](https://github.com/sagefromtheeast/Songbook-Privacy-Policy).
+- **[Soul-Feed-Store](https://github.com/sagefromtheeast/Soul-Feed-Store)**: an online store for Christian fashion. `React` `Vite` `Express`
+
+---
+
+#### 📊 Stats and highlights
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/sagefromtheeast?label=Follow&style=social)](https://github.com/sagefromtheeast)
-[![GitHub User's stars](https://img.shields.io/github/stars/sagefromtheeast?style=social)](https://github.com/sagefromtheeast?tab=stars)
 
-**My GitHub Activity**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sagefromtheeast&theme=github-dark-blue&hide_border=true">
+  <img alt="Total contributions, current streak and longest streak" src="https://streak-stats.demolab.com?user=sagefromtheeast&hide_border=true">
+</picture>
 
-![sagefromtheeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagefromtheeast&show_icons=true&theme=radical&include_all_commits=true)
+<sub>🔥 Total contributions · current streak · longest streak</sub>
 
-**Top Languages**
+<img alt="Daily contributions over the last year" src="https://ghchart.rshah.org/2ea043/sagefromtheeast" width="100%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagefromtheeast&layout=compact&theme=radical)
+<sub>📅 Daily contributions over the last year</sub>
 
-**GitHub Contributions**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img alt="Contributions over time" src="./profile-summary-card-output/github/0-profile-details.svg">
+</picture>
 
-![sagefromtheeast's github activity graph](https://activity-graph.herokuapp.com/graph?username=sagefromtheeast&theme=react-dark&hide_border=true&area=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+  <img alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg" height="160">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img alt="Commits by time of day" src="./profile-summary-card-output/github/4-productive-time.svg" height="160">
+</picture>
 
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+#### 🌱 Right now
+
+- 📖 Getting better at reading and writing code without the AI doing the heavy lifting
+- 📈 Learning data science, with football data as my playground
+- 🛡️ Looking for privacy problems worth building small tools for
+
+📬 If any of that overlaps with what you're doing, open an issue on one of my repos and say hi.
 
 ---
 
-**📧 Let's Connect!** Feel free to reach out if you'd like to collaborate on projects or discuss web development! 🚀
+#### ✍️ Random dev quote
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img alt="Random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+</picture>
