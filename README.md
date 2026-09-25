@@ -1,6 +1,6 @@
 ### Hey, I'm sagefromtheeast.
 
-I have a computer science degree and I'm still becoming a developer.
+I have a Bachelor of Technology in Computer Science, and I'm still becoming a developer.
 
 Most of what's on this profile was built *with* AI: I plan the product, make the calls, and work through the code alongside tools like **Claude Code** and **Antigravity**. Every project teaches me a little more about writing it myself, and that's the direction I'm heading.
 
@@ -8,7 +8,7 @@ Most of what's on this profile was built *with* AI: I plan the product, make the
 
 #### About me
 
-- **Background:** Computer Science degree
+- **Background:** BTech in Computer Science
 - **How I build:** AI-assisted, and learning the fundamentals as I go
 - **Into:** coding, data science, football and football analytics
 - **Care about:** tools that help everyday people keep their data private
