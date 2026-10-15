@@ -2,7 +2,7 @@
 
 Computer Science graduate building practical software, data experiments, and privacy-first tools. I use AI as a collaborator — I plan the product, write and review the code, and learn as I build.
 
-<sub>🇿🇼 Based in Zimbabwe · ⚽ football and data · 🔒 privacy-first tools · 🧠 learning in public</sub>
+<sub><img alt="Zimbabwe flag" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ff-1f1fc.png" width="20" height="20" style="vertical-align:middle;" /> Based in Zimbabwe · ⚽ football and data · 🔒 privacy-first tools · 🧠 learning in public</sub>
 
 ---
 
@@ -18,7 +18,7 @@ Computer Science graduate building practical software, data experiments, and pri
 #### 🛠️ What I build with
 
 <p>
-  <img alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Node.js, Express, Python, OpenCV, Java, Firebase, SQLite, Cloudflare, GitHub Actions, Git, VS Code" src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,python,opencv,java,firebase,sqlite,cloudflare,githubactions,git,vscode" />
+  <img alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Node.js, Express, Python, OpenCV, Java, Firebase, SQLite, Cloudflare, GitHub Actions, Git, VS Code" src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,nodejs,express,python,opencv,java,firebase,sqlite,cloudflare,githubactions,git,vscode" />
 </p>
 
 <sub>Plus shadcn/ui, React Query, Zustand, Dexie, Recharts and jsPDF when a project calls for them.</sub>
@@ -28,18 +28,18 @@ Computer Science graduate building practical software, data experiments, and pri
 #### 📦 Featured projects
 
 **🎓 Key university project**
-- **[SAG3-PARK](https://github.com/sagefromtheeast/SAG3-PARK)** — A parking management system that reads number plates from photos (YOLO + EasyOCR), identifies vehicles, and allocates spots. Tech highlights: Python, YOLO, EasyOCR, React.
+- **[SAG3-PARK](https://github.com/sagefromtheeast/SAG3-PARK)** — A parking management system that reads number plates from photos (YOLO + EasyOCR), identifies vehicles, and allocates spots. Tech hi[...]
 
 **🖍️ Building now**
-- **[Nestmark](https://github.com/sagefromtheeast/sage-highlights-unleashed)** — Browser extension for highlighting the web and keeping it. Highlights persist on revisit and can be exported. Tech: TypeScript, Vite, browser extension APIs.
+- **[Nestmark](https://github.com/sagefromtheeast/sage-highlights-unleashed)** — Browser extension for highlighting the web and keeping it. Highlights persist on revisit and can be exported. Tech: T[...]
 
 **⚽ Football**
-- **[Red Buzz](https://github.com/sagefromtheeast/football-tg-bot)** — A Telegram bot that filters Man Utd news from trusted X accounts and posts it to a channel, running for $0 on Cloudflare Workers.  
+- **[Red Buzz](https://github.com/sagefromtheeast/football-tg-bot)** — A Telegram bot that filters Man Utd news from trusted X accounts and posts it to a channel, running for $0 on Cloudflare Worker[...]
 - **[Toby-Tactics](https://github.com/sagefromtheeast/Toby-Tactics)** — Football tactics board and visual editor. Tech: React, React Spring, Dexie.
 
 **🤖 Bots and experiments**
-- **[Podcast Telegram Notifier](https://github.com/sagefromtheeast/podcast-telegram-notifier)** — Watches podcast RSS feeds and sends new episodes to Telegram with artwork, show notes and listen buttons.  
-- **[Watermark-Remover](https://github.com/sagefromtheeast/Watermark-Remover)** — Research experiment exploring approaches to remove or understand synthetic watermarks (experimental / research-only).
+- **[Podcast Telegram Notifier](https://github.com/sagefromtheeast/podcast-telegram-notifier)** — Watches podcast RSS feeds and sends new episodes to Telegram with artwork, show notes and listen but[...]
+- **[Watermark-Remover](https://github.com/sagefromtheeast/Watermark-Remover)** — Research experiment exploring approaches to remove or understand synthetic watermarks (experimental / research-only)[...]
 
 **🧰 Everyday tools**
 - **[Penny-Wise](https://github.com/sagefromtheeast/Penny-Wise)** — A budgeting app for tracking expenses and categories. Tech: React, local storage / client DB.  
