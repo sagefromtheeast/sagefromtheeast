@@ -41,7 +41,7 @@ Computer Science graduate building practical software, data experiments, and pri
 - **[Podcast Telegram Notifier](https://github.com/sagefromtheeast/podcast-telegram-notifier)** — Watches podcast RSS feeds and sends new episodes to Telegram with artwork, show notes and listen but[...]
 - **[Watermark-Remover](https://github.com/sagefromtheeast/Watermark-Remover)** — Research experiment exploring approaches to remove or understand synthetic watermarks (experimental / research-only)[...]
 
-**🧰 Everyday tools**
+**🛠️ Everyday tools**
 - **[Penny-Wise](https://github.com/sagefromtheeast/Penny-Wise)** — A budgeting app for tracking expenses and categories. Tech: React, local storage / client DB.  
 - **[Glen-Norah-Youth-Management-System](https://github.com/sagefromtheeast/Glen-Norah-Youth-Management-System)** — Dashboard for running a youth group with PDF export. Tech: React, Firebase.
 
