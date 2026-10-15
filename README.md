@@ -2,7 +2,7 @@
 
 Computer Science graduate building practical software, data experiments, and privacy-first tools. I use AI as a collaborator — I plan the product, write and review the code, and learn as I build.
 
-<sub><img alt="Zimbabwe flag" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ff-1f1fc.png" width="20" height="20" style="vertical-align:middle;" /> Based in Zimbabwe · ⚽ football and data · 🔒 privacy-first tools · 🧠 learning in public</sub>
+<sub><img alt="Zimbabwe flag" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ff-1f1fc.png" width="19" height="19" style="vertical-align:middle;" /> Based in Zimbabwe · ⚽ football and data · 🔒 privacy-first tools · 🧠 learning in public</sub>
 
 ---
 
